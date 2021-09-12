@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tnp.cit.ac.in/static/css/main.8012acd8.chunk.css",
-    "main.js": "/tnp.cit.ac.in/static/js/main.0ce2aa21.chunk.js",
-    "main.js.map": "/tnp.cit.ac.in/static/js/main.0ce2aa21.chunk.js.map",
+    "main.js": "/tnp.cit.ac.in/static/js/main.ca57a710.chunk.js",
+    "main.js.map": "/tnp.cit.ac.in/static/js/main.ca57a710.chunk.js.map",
     "runtime-main.js": "/tnp.cit.ac.in/static/js/runtime-main.1be47644.js",
     "runtime-main.js.map": "/tnp.cit.ac.in/static/js/runtime-main.1be47644.js.map",
     "static/css/2.4be38407.chunk.css": "/tnp.cit.ac.in/static/css/2.4be38407.chunk.css",
@@ -131,6 +131,6 @@
     "static/css/2.4be38407.chunk.css",
     "static/js/2.61232509.chunk.js",
     "static/css/main.8012acd8.chunk.css",
-    "static/js/main.0ce2aa21.chunk.js"
+    "static/js/main.ca57a710.chunk.js"
   ]
 }
