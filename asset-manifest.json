@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.caf5852d.chunk.css",
-    "main.js": "./static/js/main.f7636368.chunk.js",
-    "main.js.map": "./static/js/main.f7636368.chunk.js.map",
+    "main.js": "./static/js/main.fc35afc9.chunk.js",
+    "main.js.map": "./static/js/main.fc35afc9.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.92a347e3.js",
     "runtime-main.js.map": "./static/js/runtime-main.92a347e3.js.map",
     "static/css/2.7b8cf970.chunk.css": "./static/css/2.7b8cf970.chunk.css",
@@ -19,10 +19,16 @@
     "static/media/3.3d18b141.jpg": "./static/media/3.3d18b141.jpg",
     "static/media/4.ac70ace8.jpg": "./static/media/4.ac70ace8.jpg",
     "static/media/Alumni.86214080.jpg": "./static/media/Alumni.86214080.jpg",
+    "static/media/IMG-20210128-WA0187-01 - JOY BRATA SARKAR.2dd2e5a6.jpeg": "./static/media/IMG-20210128-WA0187-01 - JOY BRATA SARKAR.2dd2e5a6.jpeg",
+    "static/media/IMG-20210804-WA0000 - Biplob Kalita.b4a3f471.jpg": "./static/media/IMG-20210804-WA0000 - Biplob Kalita.b4a3f471.jpg",
+    "static/media/IMG20210418154836-1 - KANKITA NATH GAU-C-16_053.d89d3524.jpg": "./static/media/IMG20210418154836-1 - KANKITA NATH GAU-C-16_053.d89d3524.jpg",
+    "static/media/IMG_20200604_131403 - NIKESH RAI 202004011013.0798342f.jpg": "./static/media/IMG_20200604_131403 - NIKESH RAI 202004011013.0798342f.jpg",
+    "static/media/IMG_20210905_220053 - Sajal Chakraborty.22dbf286.jpg": "./static/media/IMG_20210905_220053 - Sajal Chakraborty.22dbf286.jpg",
     "static/media/IndianArmy.371474a2.png": "./static/media/IndianArmy.371474a2.png",
     "static/media/IndianOil.8579a32d.png": "./static/media/IndianOil.8579a32d.png",
     "static/media/IndianRailway.b7d3de1a.png": "./static/media/IndianRailway.b7d3de1a.png",
     "static/media/Recruitment.577299d5.jpg": "./static/media/Recruitment.577299d5.jpg",
+    "static/media/Screenshot_2021-08-30-11-30-12-99_f56466bc4bb61e6d2de1f3b0468a89d9 - Ragini Devi.3f3c95e8.jpg": "./static/media/Screenshot_2021-08-30-11-30-12-99_f56466bc4bb61e6d2de1f3b0468a89d9 - Ragini Devi.3f3c95e8.jpg",
     "static/media/abhijitdas233@gmail.com.5cf67564.jpg": "./static/media/abhijitdas233@gmail.com.5cf67564.jpg",
     "static/media/accenture.cfd6ee07.png": "./static/media/accenture.cfd6ee07.png",
     "static/media/agilent.df4014c8.png": "./static/media/agilent.df4014c8.png",
@@ -132,6 +138,6 @@
     "static/css/2.7b8cf970.chunk.css",
     "static/js/2.962fbc7d.chunk.js",
     "static/css/main.caf5852d.chunk.css",
-    "static/js/main.f7636368.chunk.js"
+    "static/js/main.fc35afc9.chunk.js"
   ]
 }
